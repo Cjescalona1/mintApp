@@ -390,7 +390,7 @@ image={CONFIG.SHOW_BACKGROUND ? "/config/images/bg.png" : null}
               </StyledRoundButton>
             </s.Container> 
             <s.Container ai={"center"} jc={"center"} fd={"row"}>
-              <StyledButton
+              <StyledButton 
               style={{color:"#37376c",  fontFamily:"Gloria Hallelujah", margin:"1em 0"} } 
               disabled={claimingNft ? 1 : 0}
                 onClick={(e) => {
