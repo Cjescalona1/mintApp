@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xAf5d3183de674004bCD656aFA2dACD3B31EB9696",
+  "SCAN_LINK": "https://polygonscan.com/address/0xaf5d3183de674004bcd656afa2dacd3b31eb9696",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "MATIC",
+    "ID": 137
+  },
+  "NFT_NAME": "Underworld Weirdos",
+  "SYMBOL": "UW",
+  "MAX_SUPPLY": 3333,
+  "WEI_COST": 12000000000000000000  ,
+  "DISPLAY_COST":  12,
+  "GAS_LIMIT": 3000000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/underworldweirdosog",
+  "SHOW_BACKGROUND": true
+}
